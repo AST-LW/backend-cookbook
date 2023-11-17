@@ -1,0 +1,19 @@
+{
+    "name": "expressjs-cookbook",
+    "version": "1.0.0",
+    "description": "The following repo mainly deals with various collection of recipes or solutions for common tasks and challenges in Express.js.",
+    "main": "app.js",
+    "scripts": {
+        "dev": "npx nodemon app.js"
+    },
+    "keywords": [],
+    "author": "AST-LW",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2",
+        "nodemon": "^3.0.1",
+        "swagger-jsdoc": "^6.2.8",
+        "swagger-ui-express": "^5.0.0"
+    }
+}
